@@ -9,3 +9,17 @@ Output:
 <class ‘int’>
 <class ‘float’>
 """
+
+x = 6
+print(type(x))
+
+x = "6"
+print(type(x))
+
+"""
+Output:
+<class ‘int’>
+<class ‘str’>
+"""
+
+
