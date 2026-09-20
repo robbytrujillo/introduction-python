@@ -18,3 +18,12 @@ print(kata)
 Output:
 dicoding
 """
+
+# Awalan dan Akhiran
+# rstrip()
+print("Dicoding".rstrip() + " Indonesia")
+
+"""
+Output:
+Dicoding Indonesia
+"""
