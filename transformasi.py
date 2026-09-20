@@ -43,3 +43,11 @@ print("         Dicoding          ".strip())
 Output:
 Dicoding
 """
+
+# split()
+print('Dicoding Indonesia !'.split())
+
+"""
+Output:
+['Dicoding','Indonesia','!']
+"""
