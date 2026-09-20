@@ -21,7 +21,7 @@ dicoding
 
 # Awalan dan Akhiran
 # rstrip()
-print("Dicoding".rstrip() + " Indonesia")
+print("Dicoding          ".rstrip() + " Indonesia")
 
 """
 Output:
@@ -30,6 +30,14 @@ Dicoding Indonesia
 
 # lstrip()
 print("           Dicoding".lstrip())
+
+"""
+Output:
+Dicoding
+"""
+
+# strip()
+print("         Dicoding          ".strip())
 
 """
 Output:
