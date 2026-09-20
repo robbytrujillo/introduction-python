@@ -27,3 +27,11 @@ print("Dicoding".rstrip() + " Indonesia")
 Output:
 Dicoding Indonesia
 """
+
+# lstrip()
+print("           Dicoding".lstrip())
+
+"""
+Output:
+Dicoding
+"""
