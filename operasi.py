@@ -99,3 +99,48 @@ shirt
 white
 L
 """
+
+# Sort
+kendaraan = ['motor', 'mobil', 'helikopter', 'pesawat']
+kendaraan.sort()
+
+print(kendaraan)
+
+"""
+Output:
+ ['helikopter', 'mobil', 'motor', 'pesawat']
+"""
+
+# Reverse Sort
+kendaraan = ['motor', 'mobil', 'helikopter', 'pesawat']
+kendaraan.sort(reverse=True)
+
+print(kendaraan)
+
+"""
+Output:
+ ['pesawat', 'motor', 'mobil', 'helikopter']
+
+"""
+
+# sort list angka string
+# urutan = ['Dicoding', 1, 2, 'Indonesia', 3]
+# urutan.sort()
+
+# print(urutan)
+
+# """
+# Output:
+# TypeError: '<' not supported between instances of 'int' and 'str'
+# """
+
+# sort uppercase
+kendaraan1 = ['motor', 'mobil', 'helikopter', 'Pesawat']
+kendaraan1.sort()
+
+print(kendaraan1)
+
+"""
+Output:
+['Pesawat', 'helikopter', 'mobil', 'motor']
+"""
