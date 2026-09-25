@@ -34,3 +34,16 @@ Output:
 Dicoding
 Indonesia
 """
+teks = "Dicoding"
+Teks = "Indonesia"
+
+print(teks)
+print(Teks)
+print(TEks)
+
+"""
+Output:
+Dicoding
+Indonesia
+NameError: name 'TEks' is not defined
+"""
