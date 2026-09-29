@@ -28,3 +28,12 @@ Output:
 [[10  0]
  [ 2 -4]]
 """
+
+# import numpy as np
+
+var_math = np.array([[6, 1],
+                   [2, 6]])
+
+result = var_math * 2
+
+print(result) 
